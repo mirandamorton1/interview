@@ -4,6 +4,9 @@
 
 A sleek, responsive web app built with Next.js and Tailwind CSS that allows users to explore countries, search by name, and filter by language.
 
+![Screenshot 2025-04-13 at 8 39 05 PM](https://github.com/user-attachments/assets/94b7b459-d0ca-4dbd-a3c7-0d3b18044c55)
+
+
 ## ✨ Features
 
 - Search for countries by name
